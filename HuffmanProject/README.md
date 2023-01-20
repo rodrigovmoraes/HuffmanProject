@@ -1,4 +1,4 @@
-## An implementation of a file compressor utilizing the Huffman algoritm.
+## An implementation of a file compressor utilizing the Huffman algorithm.
 
 ### Compilation
 
