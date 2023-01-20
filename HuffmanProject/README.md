@@ -1,18 +1,18 @@
-##An implementation of a file compressor utilizing the Huffman algoritm.
+## An implementation of a file compressor utilizing the Huffman algoritm.
 
-###Compilation
+### Compilation
 
 Use Eclipse IDE. Checkout the project from Eclipse IDE and compile it.
 
-###Run
+### Run
 
-####For compress a file use:
+#### For compress a file use:
 
 ./huffman -c <filename>
 
 The executable will create a compressed file with the name of the original file name concatenated with the suffix ".huff"
 
-####For decompress a file
+#### For decompress a file
 
 ./huffman -d <filename>
 
