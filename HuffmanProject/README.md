@@ -8,12 +8,12 @@ Use Eclipse IDE. Checkout the project from Eclipse IDE and compile it.
 
 #### For compress a file use:
 
-./huffman -c <filename>
+`./huffman -c <filename>`
 
 The executable will create a compressed file with the name of the original file name concatenated with the suffix ".huff"
 
 #### For decompress a file
 
-./huffman -d <filename>
+`./huffman -d <filename>`
 
 The executable will restore the compressed file to original content with the name of the file with the suffix ".huff" removed.
